@@ -62,3 +62,7 @@ Teaching Assistant at COMP2121: E-Business. Fall 2018
 
 Teaching Assistant at COMP3122: Information Systems Development. Spring 2018
 
+
+Contact
+------
+[Email] wangfang722@outlook.com
