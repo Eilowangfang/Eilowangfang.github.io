@@ -29,12 +29,35 @@ Publications
 [ReRAM-based processing-in-memory architecture for blockchain platforms.](https://dl.acm.org/doi/abs/10.1145/3287624.3287656) **Fang Wang**, Zhaoyan Shen, Lei Han, Zili Shao. In ICDE 2021.
 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+News
+------
+- 01 July 2025  Moved to Shanghai, still working in Huawei.
+- 12 Feb 2023   Joined Huawei Beijing, Gauss Lab.
+- 16 Aug 2022   Our work LPCE (learning for cardinality estimation) is accepted by SIGMOD 2023.
+- 17 June 2022  Passed the oral defense for PhD degree !!!
+- 01 June 2022  Finished the internship at Huawei GuassDB as research intern for Gauss Cloud-native database project.
+- 23 Dec 2020   Gave a talk on Exploiting GPUs For Database Analytical Query at Huawei GaussDB. The video recording (in Chinese) is available at Bilibili.
+- 15 Sep 2020   Joined the database group as a visiting research student at Southern University of Science and Technology, China, and worked with Dr. Bo Tang.
+
+
+Services
+------
+Reviewer: AAAI 2022/2021
+Reviewer: CIKM 2021
+
+
+
+Teaching
+------
+Teaching Assistant at COMP1411: Introduction to Computer Systems. Spring 2021
+Teaching Assistant at COMP3021: Programming Language Paradigms. Spring 2020
+Teaching Assistant at COMP5434: Big Data Computing. Summer 2019
+Teaching Assistant at COMP4438: Embedded Software. Spring 2019
+Teaching Assistant at COMP2121: E-Business. Fall 2018
+Teaching Assistant at COMP3122: Information Systems Development. Spring 2018
+
+
+
 
 Site-wide configuration
 ------
