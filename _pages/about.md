@@ -16,8 +16,13 @@ Research Interest
 My interests are mainly database systems and data4AI, which include query optimization, AI4DB, multi-modal query processing, and data preparation for LLMs. 
 
 
-Getting started
+Publications
 ======
+[Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://dl.acm.org/doi/abs/10.1145/3588708?casa_token=tilBJy9JMRMAAAAA:mVyttXmuQW4bG61Jem5us18mhRYVg0tTbE9oWmO0pFNCHcd7Bl7V1pruUGgeUhdvUnG1r0bK5gfK). **Fang Wang**, Xiao Yan, Man Lung Yiu, Shuai Li, Zunyao Mao, and Bo Tang. In SIGMOD, 2023.
+
+
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
