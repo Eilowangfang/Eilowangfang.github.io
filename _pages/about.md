@@ -18,9 +18,15 @@ My interests are mainly database systems and data4AI, which include query optimi
 
 Publications
 ======
-[Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://dl.acm.org/doi/abs/10.1145/3588708?casa_token=tilBJy9JMRMAAAAA:mVyttXmuQW4bG61Jem5us18mhRYVg0tTbE9oWmO0pFNCHcd7Bl7V1pruUGgeUhdvUnG1r0bK5gfK). **Fang Wang**, Xiao Yan, Man Lung Yiu, Shuai Li, Zunyao Mao, and Bo Tang. In SIGMOD, 2023.
+[Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation.](https://dl.acm.org/doi/abs/10.1145/3588708?casa_token=tilBJy9JMRMAAAAA:mVyttXmuQW4bG61Jem5us18mhRYVg0tTbE9oWmO0pFNCHcd7Bl7V1pruUGgeUhdvUnG1r0bK5gfK). **Fang Wang**, Xiao Yan, Man Lung Yiu, Shuai Li, Zunyao Mao, and Bo Tang. In SIGMOD, 2023.
 
+[Ghive: accelerating analytical query processing in apache hive via cpu-gpu heterogeneous computing.](https://dl.acm.org/doi/10.1145/3542929.3563503) Co-author. In SoCC 2022.
 
+[Ghive: A demonstration of gpu-accelerated query processing in apache hive.](https://dl.acm.org/doi/abs/10.1145/3514221.3520166) Co-author. In SIGMOD demo 2022.
+
+[Accelerating similarity-based mining tasks on high-dimensional data by processing-in-memory.](https://ieeexplore.ieee.org/abstract/document/9458768/) **Fang Wang**, Man Lung Yiu, and Zili Shao. In ICDE 2021.
+
+[ReRAM-based processing-in-memory architecture for blockchain platforms.](https://dl.acm.org/doi/abs/10.1145/3287624.3287656) **Fang Wang**, Zhaoyan Shen, Lei Han, Zili Shao. In ICDE 2021.
 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
